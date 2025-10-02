@@ -39,6 +39,4 @@
 <a href="https://www.hackerrank.com/profile/realDulanJay" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hacker rank"></a>
 
 <hr />
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=realdulanjay&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="realdulanjay"/>
-</div>
+
